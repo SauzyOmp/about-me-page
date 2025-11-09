@@ -53,21 +53,5 @@ section {
   color: var(--accent);
 }
 
-button {
-  border: 1px solid #e5e7eb;
-  padding: .6rem 1rem;
-  border-radius: 10px;
-  background: var(--card);
-  cursor: pointer;
-}
-button:hover { transform: translateY(-1px); }
-
 .muted { color: var(--muted); }
 
-.site-footer {
-  text-align: center;
-  padding: 2rem 1rem;
-  color: var(--muted);
-  border-top: 1px solid #e5e7eb;
-  margin-top: 2rem;
-}
